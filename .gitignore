@@ -9,3 +9,5 @@ access.log
 vendor
 CLAUDE.md
 log/*
+.idea/
+hosts/
