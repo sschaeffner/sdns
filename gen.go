@@ -21,7 +21,7 @@ var middlewareList = []string{
 	"dnstap",
 	"accesslist",
 	"ratelimit",
-	"reflex",
+//	"reflex",
 	"edns",
 	"accesslog",
 	"chaos",
